@@ -1,7 +1,7 @@
 # 2016 Airbnb Analysis
 
 Summary: Analysed data to answer the following questions:
-\
+
 1. Which area (postcode) has the highest average price?
 2. When is the best period for property owners to make a listing?
 3. Taking number of bedrooms into account, what size of a property should an owner list to have the least competition?   
