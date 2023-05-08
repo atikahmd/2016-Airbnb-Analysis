@@ -1,4 +1,4 @@
-# 2016 Airbnb Analysis
+# Airbnb Analysis
 
 Summary: Analysed data to answer the following questions:
 
